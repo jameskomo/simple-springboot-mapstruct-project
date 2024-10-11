@@ -1,0 +1,1 @@
+This examples shows how yto use MapStruct, a Java Bean mapperthat helps in automatically mapping between two Java Beans. With MapStruct, we only need to create the interface, and the library will automatically create a concrete implementation during compile time (Entitieis to DTOs)
